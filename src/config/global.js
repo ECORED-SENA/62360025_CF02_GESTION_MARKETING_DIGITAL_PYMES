@@ -255,14 +255,41 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Alcance digital',
+      significado:
+        'Es el equivalente moderno a estar en la cima de la colina más alta con un megáfono, solo que la colina es internet y el megáfono es tu estrategia digital. Permite a las pequeñas empresas trascender sus límites físicos y llegar a una audiencia global mediante canales digitales como redes sociales, correo electrónico y marketing de contenidos.',
+    },
+    {
+      termino: 'Análisis de audiencia',
+      significado:
+        'Es el proceso de recopilar, interpretar y comprender información sobre el público objetivo para identificar sus necesidades, preferencias, comportamientos y la forma en que interactúa con una marca o sector.',
+    },
+    {
+      termino: 'Base de datos',
+      significado:
+        'Es una herramienta que almacena información de un mismo contexto de manera organizada y sistematizada, facilitando su recuperación, análisis o transmisión. Ejemplos son una biblioteca, un listado de clientes o el historial de navegación.',
+    },
+    {
+      termino: 'Canal digital',
+      significado:
+        'Es un medio que permite comunicar, vender o prestar servicios a través de dispositivos como computadoras, tabletas o teléfonos móviles. Puede ser propio, como un sitio web o una tienda en línea, o externo, como un marketplace o una tienda de terceros.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Font, H. G. (2017, 22 de noviembre). ¿Qué es un canal digital? La guía definitiva. Telematel.',
+      link: 'https://www.telematel.com/blog/canal-digital-que-es/',
+    },
+    {
+      referencia:
+        'Gatward, D. (2024, 27 de marzo). ¿Qué es el alcance digital y cómo puedes implementarlo? Counting Stars.',
+      link: 'https://www.counting-stars.co.uk/what-is-digital-outreach-how-can-you-implement-it/',
+    },
+    {
+      referencia:
+        'Wilkinson, M. (2024, 25 de junio). Análisis de la audiencia: Qué es y cómo hacerlo. Semrush.',
+      link: 'https://es.semrush.com/blog/analisis-de-audiencia/',
     },
   ],
   creditos: [
@@ -271,11 +298,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
@@ -285,9 +313,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Joinner Enrique Osorio Martínez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -295,37 +330,56 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
         {
-          nombre: '',
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: '',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
