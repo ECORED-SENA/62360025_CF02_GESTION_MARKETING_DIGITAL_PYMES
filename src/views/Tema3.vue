@@ -9,7 +9,7 @@
       p.mb-5 A continuación, se presenta un video sobre los principios básicos del diseño gráfico aplicado a redes sociales, destacando su importancia para crear publicaciones visualmente atractivas, organizadas y alineadas con los objetivos de comunicación de una organización.
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/QUtJV_kZ-v0?si=Btb30JKSdvjBMhGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Diseño gráfico aplicado a redes sociales
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
