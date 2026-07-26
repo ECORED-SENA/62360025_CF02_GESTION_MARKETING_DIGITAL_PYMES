@@ -182,7 +182,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/img18.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p Para mejorar la calidad de las publicaciones también es importante evitar algunos errores frecuentes:
+          p Para mejorar la calidad de las publicaciones, también es importante evitar algunos errores frecuentes:
           br
           ul.fa-ul.mb-0
             li.mb-0.ajuste---li.d-flex

@@ -104,31 +104,31 @@
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/t1/img11.svg' style="max-width: 90px").m-auto
-                  h4.mb-3.estilo-text Paso 1. Definir el objetivo.
+                  h4.mb-3.estilo-text Paso 1. Definir el objetivo
                   p.mb-0.text-center Determina qué se desea comunicar y el resultado esperado.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/t1/img12.svg' style="max-width: 90px").m-auto
-                  h4.mb-3.estilo-text Paso 2. Identificar la audiencia.
+                  h4.mb-3.estilo-text Paso 2. Identificar la audiencia
                   p.mb-0.text-center Permite adaptar el lenguaje, el diseño, el formato y el tono comunicativo.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/t1/img13.svg' style="max-width: 90px").m-auto
-                  h4.mb-3.estilo-text Paso 3. Seleccionar el canal digital.
+                  h4.mb-3.estilo-text Paso 3. Seleccionar el canal digital
                   p.mb-0.text-center Define dónde se difundirá el contenido según las características de la audiencia.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/t1/img14.svg' style="max-width: 90px").m-auto
-                  h4.mb-3.estilo-text Paso 4. Organizar el mensaje.
+                  h4.mb-3.estilo-text Paso 4. Organizar el mensaje
                   p.mb-0.text-center Integra la idea principal, la información relevante, el llamado a la acción y los datos de contacto o acceso.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/temas/t1/img15.svg' style="max-width: 90px").m-auto
-                  h4.mb-3.estilo-text Paso 5. Definir el momento de difusión.
+                  h4.mb-3.estilo-text Paso 5. Definir el momento de difusión
                   p.mb-0.text-center Establece cuándo publicar el contenido para favorecer su alcance y efectividad.
           p.mb-5 La elección del canal debe responder tanto al objetivo del comunicado como a las características de la audiencia.
           .row.justify-content-center.mb-5
@@ -169,7 +169,7 @@
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.3 Integración del plan de comunicación en redes sociales
       p El plan de comunicación es una herramienta organizacional que orienta la gestión de los mensajes institucionales de acuerdo con los objetivos estratégicos de la organización. En los entornos digitales, su integración permite mantener coherencia entre la identidad institucional, los contenidos publicados y las acciones comunicativas desarrolladas en redes sociales.
-      p.mb-5 Integrar el plan de comunicación en las redes sociales implica adaptar los lineamientos organizacionales al contexto digital para garantizar que las publicaciones respondan a criterios definidos y no a decisiones improvisadas. Esto favorece la consistencia en el lenguaje, el diseño, la frecuencia de publicación y la interacción con las audiencias. Los principales aspectos que orienta un plan de comunicación en medios digitales se presentan a continuación:
+      p.mb-5 Integrar el plan de comunicación en las redes sociales implica adaptar los lineamientos organizacionales al contexto digital para garantizar que las publicaciones respondan a criterios definidos y no a decisiones improvisadas. Esto favorece la consistencia en el lenguaje, el diseño, la frecuencia de publicación y la interacción con las audiencias. Los principales aspectos que orientan un plan de comunicación en medios digitales se presentan a continuación:
       .bg-carrusel
         .px-5
           SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5

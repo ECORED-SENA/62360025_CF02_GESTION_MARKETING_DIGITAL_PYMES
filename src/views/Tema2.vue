@@ -266,15 +266,15 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Más información disponible
+                    | Más información disponible.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Puede revisar nuestro contenido
+                    | Puede revisar nuestro contenido.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | Si desea puede escribir
+                    | Si desea puede escribir.
             .col-lg-4.col-md-9(data-aos="zoom-in")
               .tarjeta--boton.p-5.h-100
                 .row.justify-content-center.mb-3

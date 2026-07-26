@@ -142,7 +142,7 @@
       Separador
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 3.3 Diseño de piezas gráficas con herramientas gratuitas
-      p.mb-5 Actualmente existen diversas herramientas que permiten crear piezas gráficas para redes sociales sin necesidad de conocimientos avanzados en diseño. Estas plataformas facilitan la elaboración de contenidos mediante plantillas editables, recursos gráficos y formatos adaptados a diferentes medios digitales. Algunas de las herramientas más utilizadas son las siguientes:
+      p.mb-5 Actualmente, existen diversas herramientas que permiten crear piezas gráficas para redes sociales sin necesidad de conocimientos avanzados en diseño. Estas plataformas facilitan la elaboración de contenidos mediante plantillas editables, recursos gráficos y formatos adaptados a diferentes medios digitales. Algunas de las herramientas más utilizadas son las siguientes:
       .row.justify-content-center.mb-5
         .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
           .caja-7.h-100
@@ -482,7 +482,7 @@
                 .col-8
                   img(src='@/assets/curso/temas/t3/img38.svg' style="max-width: 90px").m-auto
               h4.mb-3.estilo-text Administración de múltiples redes
-              p.mb-0.text-center Centraliza la gestión de diferentes 
+              p.mb-0.text-center Centraliza la gestión de diferentes plataformas.
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8

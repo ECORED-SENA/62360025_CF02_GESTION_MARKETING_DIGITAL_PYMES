@@ -10,7 +10,7 @@
       p.mb-5 Cada publicación representa la imagen de la organización; por ello, debe responder a criterios de calidad, pertinencia, oportunidad y responsabilidad en el manejo de la información.
       #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 6.1 Publicación de contenidos según la audiencia
-      p.mb-5 La efectividad de una publicación depende de que el contenido llegue a la audiencia adecuada, en el momento oportuno y mediante el canal más apropiado. Para definir la estrategia de publicación es recomendable considerar los siguientes aspectos:
+      p.mb-5 La efectividad de una publicación depende de que el contenido llegue a la audiencia adecuada, en el momento oportuno y mediante el canal más apropiado. Para definir la estrategia de publicación, es recomendable considerar los siguientes aspectos:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -215,7 +215,7 @@
               p.mb-0 Comprobar que el contenido se visualice correctamente en teléfonos móviles, tabletas y computadores, verificando la legibilidad de los textos, el tamaño de las imágenes y el funcionamiento de enlaces o botones. Esto mejora la experiencia del usuario y favorece el acceso al contenido desde diferentes dispositivos.
       .bg-1
         .px-5
-          p.mb-5 Como apoyo al proceso puede utilizarse la siguiente lista de verificación:
+          p.mb-5 Como apoyo al proceso, puede utilizarse la siguiente lista de verificación:
           .row.justify-content-center.mb-0
             .col-xl-6
               .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
