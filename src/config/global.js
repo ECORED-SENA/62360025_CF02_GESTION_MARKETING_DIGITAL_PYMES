@@ -257,22 +257,22 @@ export default {
     {
       termino: 'Alcance digital',
       significado:
-        'Es el equivalente moderno a estar en la cima de la colina más alta con un megáfono, solo que la colina es internet y el megáfono es tu estrategia digital. Permite a las pequeñas empresas trascender sus límites físicos y llegar a una audiencia global mediante canales digitales como redes sociales, correo electrónico y marketing de contenidos.',
+        'número total de usuarios únicos que visualizan o interactúan con un contenido, publicación o campaña publicitaria a través de canales digitales en un periodo determinado. Permite medir el nivel de difusión de una estrategia en entornos web y redes sociales.',
     },
     {
       termino: 'Análisis de audiencia',
       significado:
-        'Es el proceso de recopilar, interpretar y comprender información sobre el público objetivo para identificar sus necesidades, preferencias, comportamientos y la forma en que interactúa con una marca o sector.',
+        'proceso de recopilación e interpretación de datos sobre un público objetivo para identificar sus necesidades, comportamientos, preferencias y formas de interacción con una marca u organización.',
     },
     {
       termino: 'Base de datos',
       significado:
-        'Es una herramienta que almacena información de un mismo contexto de manera organizada y sistematizada, facilitando su recuperación, análisis o transmisión. Ejemplos son una biblioteca, un listado de clientes o el historial de navegación.',
+        'conjunto organizado y estructurado de datos pertenecientes a un mismo contexto, almacenados electrónicamente para facilitar su consulta, análisis, actualización y gestión automatizada.',
     },
     {
       termino: 'Canal digital',
       significado:
-        'Es un medio que permite comunicar, vender o prestar servicios a través de dispositivos como computadoras, tabletas o teléfonos móviles. Puede ser propio, como un sitio web o una tienda en línea, o externo, como un marketplace o una tienda de terceros.',
+        'medio o plataforma electrónica que permite la comunicación, comercialización o prestación de servicios mediante dispositivos conectados a red. Puede ser propio (sitio web, aplicación móvil) o de terceros (<i>marketplace</i>, redes sociales).',
     },
   ],
   referencias: [

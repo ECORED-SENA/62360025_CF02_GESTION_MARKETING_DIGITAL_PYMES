@@ -237,7 +237,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Mapa de contenidos
-                  p.mb-0 Organizar las páginas del sitio web y definir la relación entre ellas para establecer una estructura clara y coherente. Un mapa de contenidos facilita la planificación del sitio, mejora la navegación, optimiza la localización de la información y favorece una experiencia de usuario.
+                  p.mb-0 Organizar las páginas del sitio web y definir la relación entre ellas para establecer una estructura clara y coherente. Un mapa de contenidos facilita la planificación del sitio, mejora la navegación, optimiza la localización de la información y favorece una mejor experiencia de usuario.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t5/img22.png', alt='' style="max-width: 500px").m-auto
@@ -342,7 +342,7 @@
             .row(titulo="WhatsApp Business").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Registrar datos de usuarios interesados a partir de conversaciones, consultas y solicitudes recibidas a través del canal de mensajería. Esta información facilita el seguimiento de clientes potenciales, fortalece la atención personalizada y mejora la gestión de las relaciones comerciales.
             .row(titulo="Correo electrónico").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Validar campañas, comunicados, anuncios o publicaciones institucionales mediante los procedimientos de revisión establecidos por la organización. Este proceso permite reducir errores, garantizar la coherencia de la información y mantener un mayor control sobre los contenidos antes de su difusión.
+              p.mb-3 Enviar boletines informativos (#[i newsletters]), promociones o comunicaciones directas que incluyan enlaces a formularios o llamados a la acción (CTA) para recolectar, actualizar o complementar los datos e intereses de los usuarios.
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t5/img33.jpg')})` }")

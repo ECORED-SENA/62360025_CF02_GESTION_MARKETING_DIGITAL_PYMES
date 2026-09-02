@@ -161,7 +161,7 @@
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Organización de archivos
                       td.ajuste-border-tabla.texto-left Establecer una estructura de almacenamiento.
-                      td.texto-left Evita pérdida o duplicidad de información.
+                      td.texto-left Evita la pérdida o duplicidad de información.
           p.mb-0 Una administración organizada favorece la productividad, reduce reprocesos y facilita el crecimiento de la comunicación digital.
           Separador
           #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

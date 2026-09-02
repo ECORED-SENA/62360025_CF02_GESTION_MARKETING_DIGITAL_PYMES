@@ -26,7 +26,7 @@
             .row(titulo="Plataforma utilizada").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Adaptar el formato, el diseño, la extensión del mensaje y el estilo de comunicación según las características de cada canal digital. Esta adecuación permite ofrecer información más pertinente y mejorar la experiencia de los usuarios en cada plataforma.
             .row(titulo="Nivel de interacción esperado").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Definir el tipo de participación que se busca promover, como comentarios, reacciones, compartidos, registros o clics en enlaces. Establecer este objetivo facilita el diseño de estrategias y llamados a la acción que incentiven.
+              p.mb-3 Definir el tipo de participación que se busca promover, como comentarios, reacciones, compartidos, registros o clics en enlaces. Establecer este objetivo facilita el diseño de estrategias y llamados a la acción que incentiven dicha participación.
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t6/img2.jpg')})` }")
