@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="97.999" viewBox="0 0 91 97.999">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="91" height="97.999" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_412572" data-name="Rectangle 412572" width="57" height="55" transform="translate(1139.586 3878.606)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_2" data-name="Scroll Group 2" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="Group_1207151" data-name="Group 1207151" transform="translate(-1119.086 -3857.106)">
+      <g id="Group_1204751" data-name="Group 1204751" transform="translate(1119.086 3857.106)">
+        <g id="Group_1204438" data-name="Group 1204438">
+          <g id="Group_1204285" data-name="Group 1204285">
+            <g id="Group_1204180" data-name="Group 1204180">
+              <g id="Group_1204143" data-name="Group 1204143">
+                <g id="Group_1188789" data-name="Group 1188789" transform="translate(0)">
+                  <path id="Path_1243039" data-name="Path 1243039" d="M41.05,0h0a41.05,41.05,0,0,1,0,82.1h0a41.05,41.05,0,0,1,0-82.1Z" transform="translate(7.951 7.949)" fill="#ffc63f"/>
+                  <rect id="Rectangle_400907" data-name="Rectangle 400907" width="88.438" height="88.437" rx="44.218" transform="translate(4.782 4.781)" fill="none"/>
+                  <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+                    <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                      <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                      <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+                    </g>
+                    <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(240 382)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                      <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                      <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Mask_Group_1099529" data-name="Mask Group 1099529" clip-path="url(#clip-path-2)">
+        <g id="homepage_4904826" transform="translate(1137.686 3875.706)">
+          <g id="Ikon">
+            <path id="Path_1329425" data-name="Path 1329425" d="M57.95,9.5a1.9,1.9,0,0,0-1.9-1.9H4.75a1.9,1.9,0,0,0-1.9,1.9v5.7h55.1Z" fill="#2196f3"/>
+            <path id="Path_1329426" data-name="Path 1329426" d="M2.85,15.2V51.3a1.9,1.9,0,0,0,1.9,1.9h51.3a1.9,1.9,0,0,0,1.9-1.9V15.2Z" fill="#eee"/>
+            <path id="Path_1329427" data-name="Path 1329427" d="M40.546,34.2h-1.6V44.65a1.906,1.906,0,0,1-1.9,1.9h-1.9a1.9,1.9,0,0,1-1.9-1.9v-3.8a1.906,1.906,0,0,0-1.9-1.9h-1.9a1.906,1.906,0,0,0-1.9,1.9v3.8a1.9,1.9,0,0,1-1.9,1.9h-1.9a1.906,1.906,0,0,1-1.9-1.9V34.2h-1.6a1.9,1.9,0,0,1-1.245-3.334l10.137-8.873a1.907,1.907,0,0,1,2.508,0L41.79,30.866A1.9,1.9,0,0,1,40.546,34.2Z" fill="#2196f3"/>
+          </g>
+          <g id="line">
+            <path id="Path_1329428" data-name="Path 1329428" d="M56.05,6.65H4.75A2.853,2.853,0,0,0,1.9,9.5V51.3a2.853,2.853,0,0,0,2.85,2.85h51.3A2.853,2.853,0,0,0,58.9,51.3V9.5a2.853,2.853,0,0,0-2.85-2.85ZM4.75,8.55h51.3A.951.951,0,0,1,57,9.5v4.75H3.8V9.5A.951.951,0,0,1,4.75,8.55Zm51.3,43.7H4.75a.951.951,0,0,1-.95-.95V16.15H57V51.3A.951.951,0,0,1,56.05,52.25ZM54.15,11.4a1.9,1.9,0,1,1-1.9-1.9A1.9,1.9,0,0,1,54.15,11.4Zm-4.75,0a1.9,1.9,0,1,1-1.9-1.9A1.9,1.9,0,0,1,49.4,11.4Zm-10.45.95H8.55a.95.95,0,1,1,0-1.9h30.4a.95.95,0,0,1,0,1.9ZM37.05,47.5h-1.9a2.853,2.853,0,0,1-2.85-2.85v-3.8a.951.951,0,0,0-.95-.95h-1.9a.951.951,0,0,0-.95.95v3.8a2.853,2.853,0,0,1-2.85,2.85h-1.9a2.853,2.853,0,0,1-2.85-2.85v-9.5h-.646a2.852,2.852,0,0,1-1.872-5L28.52,21.278a2.841,2.841,0,0,1,3.756,0l10.139,8.876a2.852,2.852,0,0,1-1.87,5H39.9v9.5a2.853,2.853,0,0,1-2.85,2.85ZM29.45,38h1.9a2.853,2.853,0,0,1,2.85,2.85v3.8a.951.951,0,0,0,.95.95h1.9a.951.951,0,0,0,.95-.95V34.2a.95.95,0,0,1,.95-.95h1.6a.923.923,0,0,0,.882-.613.936.936,0,0,0-.265-1.057L31.028,22.707a.955.955,0,0,0-1.259,0L19.635,31.581a.934.934,0,0,0-.264,1.056.923.923,0,0,0,.882.613h1.6a.95.95,0,0,1,.95.95V44.65a.951.951,0,0,0,.95.95h1.9a.951.951,0,0,0,.95-.95v-3.8A2.853,2.853,0,0,1,29.45,38Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
